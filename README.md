@@ -4,7 +4,7 @@
 - 🧩 I'm learning to be competent with Machine Learning.
 - ☕ Fun Fact: I love to code while drinking coffee & listening to music 🎵 
 - 💬 Ask me about Python, SQL, or Fraud Analytics.
-- 📪 You can reach me through Swapnil.Sinha@AB-inbev.com
+- 📪 You can reach me through Swapnil.Sinha@AB-inbev.com and view my work on my personal <strong> <a href="https://github.com/Swap-Nova">GitHub 👾</a></strong>
 
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
